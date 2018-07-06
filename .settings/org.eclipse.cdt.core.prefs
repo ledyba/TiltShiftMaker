@@ -1,3 +1,0 @@
-#Mon Aug 24 22:36:56 JST 2009
-eclipse.preferences.version=1
-environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.558706778=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<environment append\="true" appendContributed\="true">\r\n<variable delimiter\=";" name\="Path" operation\="replace" value\="${Path};G\:\\gcc\\MSYS\\bin;G\:\\gcc\\MSYS\\local\\bin;G\:\\gcc\\MinGW\\bin;G\:\\gcc\\ruby19\\bin;G\:\\gcc\\ruby18\\bin;G\:\\gcc\\msys\\app\\sdl\\bin;G\:\\gcc\\groovy\\bin;G\:\\gcc\\prolog\\bin;G\:\\gcc\\msys\\app\\lua\\bin;G\:\\gcc\\python;G\:\\gcc\\msys\\app\\emacs\\bin"/>\r\n</environment>\r\n
